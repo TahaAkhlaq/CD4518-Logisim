@@ -7,7 +7,7 @@ To use this library in Logisim-Evolution, follow these steps:
 2. Navigate to `Project` -> `Load Library` -> `Logisim-evolution Library` within Logisim-Evolution.
 3. You will then see a `CD4518` folder in your toolbar, which contains the model that can be used as a component in your circuit designs.
 
-![CD4518 IC](./4518.png)
+![CD4518 IC](./CD4518.png)
 
 ## Copyright & Licensing
 Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
